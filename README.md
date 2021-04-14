@@ -8,10 +8,10 @@
   + 概覽=>終端機=>指令 yum install ibus-table-chinese-cangjie=>登出作業系統再登入即可完成
 
 ## linux遠端連線
-### putty連接CMD
+### putty連線(CMD指令)
 + 下載並安裝putty,下載完成後開啟檔案
   + host name輸入想連線的電腦ip，複製到下方saved sessions儲存即可開啟
   + 輸入指令systemctl status cockpit.socket即可進入,按Q鍵即可跳出
-### IP連線操作圖形化介面
+### IP連線操作(圖形化介面)
 + 網頁輸入IP網址連接埠9090,格式:xxx.xxx.xxx.xxx:9090
 + 登入管理者帳密即可進入進行操作 
