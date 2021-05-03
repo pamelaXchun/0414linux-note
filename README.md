@@ -1,4 +1,4 @@
-# 0414linux note
+# linux note
 ## CentOS8新增鍵盤語言
 ### 以下新增"倉頡"鍵盤為例
 
